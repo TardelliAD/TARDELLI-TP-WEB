@@ -1,0 +1,34 @@
+ * {
+    color: black;
+    font-family: 'Poor Story', cursive;  
+}
+body{
+    background-color: rgb(139, 31, 31);
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.226);
+    font-size: 57px;
+    font-weight: bold;
+}
+.inline{
+    display: flex;
+    justify-content: center;
+}
+
+ .contenant{
+    width: 200px;
+    height: 200px;
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(100, 31, 31);
+    border-radius: 25%;  
+    font-size: 33px;  
+}
+.contenant:hover{
+    background-color: brown;
+}
+
