@@ -18,15 +18,17 @@ body{
 }
 
  .contenant{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin: 0px auto 0px auto;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: rgb(100, 31, 31);
     border-radius: 25%;  
-    font-size: 33px;  
+    font-size: 20px; 
+    margin:0px 10px;
+
 }
 .contenant:hover{
     background-color: brown;
